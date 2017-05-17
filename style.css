@@ -1,0 +1,54 @@
+.button 
+{
+	background-color: #cc5200;
+    border: none;
+	border-radius: 5px;
+    color: white;
+    padding: 16px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+	border: 1px solid #cc5200;
+	width: 400px;
+}
+
+.button:hover 
+{
+    background-color: white; 
+    color: black; 
+	border-radius: 5px;
+    border: 1px solid #cc5200;
+}
+div
+{
+	width: 400px;
+    border: 2px solid #cc5200;
+	border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+	background-color: #949494;
+}
+h1 {
+    color: white;
+	font-family: Calibri;
+}
+label{
+	color: white;
+	font-family: Calibri;
+	font-size: 17pt;
+}
+body {
+    background-color: #696969;
+}
+table, th, td {
+    border-collapse: collapse;
+	border: 2px solid #cc5200;
+	border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+	background-color: #949494;
+}
